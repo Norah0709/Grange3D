@@ -10,15 +10,17 @@ Conseil pour profiter à fond de votre expérience: Essayer de vous mettre en mo
 
 Ce projet a été développée par Jonathan Strübi et Norah Olivier dans le contexte du cours de réalité virtuelle dispensé par Isaac Pante à l'Université de Lausanne. 
 
-**_Copyrights, ressources et récupération de code_**
+**_Copyrights des textures, ressources et récupération de code_**
 
-Pour les textures, nous les avons récupérées sur Imgur et Freeimage. 
-Texture des rideaux: https://www.vecteezy.com/vector-art/586488-black-and-white-curtain-theater-scene-stage-background-backdrop-with-luxury-silk-velvet-abstract-texture 
-Texture du bois: https://ch.pinterest.com/pin/651262796099057057/ 
+https://imgur.com/1yOF5Vj
+https://imgur.com/yqOCP0x
+https://imgur.com/WF3pcKT 
+https://imgur.com/DAgizeZ
+https://imgur.com/UcMp6OF
+https://imgur.com/BH982OR
 
 Lien utile du plan technique de la Grange: https://www.grange-unil.ch/wp-content/uploads/sites/2/2024/07/fiche-technique-grange-juillet-2024.pdf 
 
-Nous avons utilisé l'aide de ChatGpt pour nous faire comprendre le code d'interrupteur. Cependant, cela n'a pas marché.
 
 GIF réalisé avec l'aide de ezgif: https://ezgif.com/ 
 
